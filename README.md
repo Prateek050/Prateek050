@@ -1,4 +1,6 @@
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpid2lrNXExa291b3NsYmtpdHFnMGR4aGQzaGxpZXQ3cDcwbTdidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9wbFB61YEh1u/giphy.gif)
+![Masterhead](https://github.com/user-attachments/assets/88ed52ff-2aef-401b-8ae3-76dfcb67b59a)
+
+
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">Just  a  Computer  Science  Engineering  undergrad  specializing  in  Data  Science,  whose  projects  span  across  multiple  domains  like  full-stack  development,  machine  learning,  and 
  data  science,  all  focused  on  solving  complex  problems  through  data  and  technology.  Looking  forward  to  apply  my  skills  in  real-world  settings  where  i  can  blend  software  engineering  and 
