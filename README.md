@@ -1,4 +1,4 @@
-![Masterhead](https://github.com/user-attachments/assets/88ed52ff-2aef-401b-8ae3-76dfcb67b59a)
+<img align="center" alt="gif" width="1000" src="https://github.com/user-attachments/assets/88ed52ff-2aef-401b-8ae3-76dfcb67b59a" alt="bladerunner" />
 
 
 <h1 align="center">Hi 👋, I'm Prateek</h1>
